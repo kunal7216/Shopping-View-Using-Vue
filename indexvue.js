@@ -1,3 +1,4 @@
+
 <template lang="pug">
 .wrapper
   .screen.-left
@@ -41,6 +42,9 @@
               .button(@click="increment(item)") >
     
 </template>
+
+
+
 
 <script>
 export default {
