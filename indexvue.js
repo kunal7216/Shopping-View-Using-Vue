@@ -110,6 +110,9 @@ export default {
 };
 </script>
 
+
+
+
 <style lang="scss">
 $white: #fff;
 $yellow: #f6c90e;
